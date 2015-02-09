@@ -1,0 +1,14 @@
+{
+  "name": "howdoi",
+  "main": "./lib/main.js",
+  "version": "0.1.0",
+  "description": "Natural language code autocomplete shortcut.",
+  "engines": {
+    "atom": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/idevelop/atom-howdoi"
+  },
+  "license": "MIT"
+}
