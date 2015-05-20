@@ -22,7 +22,11 @@ It should work for any syntax that has reasonably good questions and answers on 
 
 ## Important
 
-- This package uses the Google Custom Search API combined with the StackExchange API. To be able to use the Google API you need to set an API Key in Settings. Follow the steps under Custom Search Engine here: https://developers.google.com/custom-search/json-api/v1/introduction#identify_your_application_to_google_with_api_key. The free tier of the API is limited to 100 queries / day.
+This package uses the Google Custom Search API combined with the StackExchange API. To be able to use the Google API you need to set an API Key in Settings. 
+
+Follow the steps under Custom Search Engine here: https://developers.google.com/custom-search/json-api/v1/introduction#identify_your_application_to_google_with_api_key. 
+
+The free tier of the API is limited to 100 queries / day.
 
 ## Author
 
