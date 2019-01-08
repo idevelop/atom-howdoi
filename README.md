@@ -11,7 +11,7 @@ Atom package to shortcut the common developer flow:
 
 Now, you can just write your query inline, press `Ctrl+?`, then see the code magically get autocompleted.
 
-![Screencast](https://andrei.codes/images/howdoi.gif)
+![Screencast](https://andrei.codes/images/howdoi-cropped.gif)
 
 It should work for any syntax that has reasonably good questions and answers on stackoverflow.com.
 
