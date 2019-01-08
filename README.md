@@ -11,9 +11,13 @@ Atom package to shortcut the common developer flow:
 
 Now, you can just write your query inline, press `Ctrl+?`, then see the code magically get autocompleted.
 
-![Screencast](http://www.idevelop.ro/howdoi/example.gif)
+![Screencast](https://andrei.codes/images/howdoi.gif)
 
 It should work for any syntax that has reasonably good questions and answers on stackoverflow.com.
+
+## Install
+
+- [Install for Atom](https://atom.io/packages/howdoi)
 
 ## Features
 
@@ -32,7 +36,7 @@ The free tier of the API is limited to 100 queries / day.
 
 **Andrei Gheorghe**
 
-* [About me](http://idevelop.ro)
+* [About me](https://andrei.codes)
 * LinkedIn: [linkedin.com/in/idevelop](http://www.linkedin.com/in/idevelop)
 * Twitter: [@idevelop](http://twitter.com/idevelop)
 
